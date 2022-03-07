@@ -3,8 +3,6 @@ title: "Why Today Is the Best Day to Become a UX Designer"
 date: 2022-03-07T16:24:30Z
 ---
 
-## Why today is the best day to become a Experience Designer
-
 Many of us have made the transition from different design disciplines to UX for various reasons. Intrinsically when we all started out, we were told that it was a rewarding and fulfilling career to solve real world problems in the domains that interested us.
 
 This still holds true today and I truly believe that there aren’t many fulfilling roles today as an Experience Designer. It comes at a price of learning everyday and staying updated with trends, methods, collaborating with cross functional teams but, like every designer, you still get that feeling of bliss when you ship something and it makes it out to the real world where millions and millions of people are benefitted by it.
