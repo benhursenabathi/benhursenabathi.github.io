@@ -2,8 +2,3 @@ baseURL = 'https://benhur.me/'
 languageCode = 'en-us'
 title = 'Benhur Senabathi'
 theme = 'PaperMod'
-
-params:
-    homeInfoParams:
-        Title: Hi, I'm Ben! 
-        Content: A product designer at frog
