@@ -4,10 +4,13 @@ date: 2022-03-07T20:45:12Z
 ---
 
 # The future of Explorative Play and what this means for designers
+> Consciousness narrows as we get older”— Michael Pollan
+![](https://benhur.me/explorative-play/valhalla.jpg)
+
 ### What is explorative play?
 Explorative play gives a sandbox experience for kids to simulate adult life. In her book, how emotions are made, Lisa Barett, the psychologist says that 90% of our brain is running on internal simulation and the rest 10% of input from external world. The external stimulus is what the brain uses to test these internal simulations. That in a nutshell is the way that explorative play helps kids become adults and form new mental models and shape their identities. 
 
-![](https://benhursenabathi.github.io/valhalla.jpg)
+![](https://benhur.me/kid-falling-over.gif)
 
 A study by Sergio Pellis shows us that mammals, when they play during their formative juvenile years, they show signs of better learning and problem solving characters when they are adults. This also translates to human beings, except we can still keep playing and learning as we grow up, although not at the same pace we could when we were young. This can be seen in the rate of play mindset compared with the age graph below
 
