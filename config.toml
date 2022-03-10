@@ -5,5 +5,5 @@ theme = 'PaperMod'
 
 [params]
     [[homeInfoParams]]
-        Title: 'Thoughts & blocks'
-        Content: 'Welcome to thoughts & blocks where you can read about automations, workflows, astronomy and anything really'
+        Title = 'Thoughts & blocks'
+        Content = 'Welcome to thoughts & blocks where you can read about automations, workflows, astronomy and anything really'
