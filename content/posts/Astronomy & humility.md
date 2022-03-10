@@ -1,7 +1,7 @@
 ---
 title: "What can astronomy teach us about humility? "
 date: 2022-03-10T16:33:26Z
-draft: true
+draft: false
 ---
 
 {{<figure src="/img/Astronomy/looking-up.jpeg" link="/img/Astronomy/looking-up.jpeg">}}
