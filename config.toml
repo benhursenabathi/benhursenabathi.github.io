@@ -7,18 +7,18 @@ theme = 'PaperMod'
 Title = "thoughts & blocks"
 Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy, design.
 
-  [[params.socialIcons]]
+[params.socialIcons]
   name = "twitter"
   url = "https://twitter.com/im_benhur"
 
-  [[params.socialIcons]]
+[params.socialIcons]
   name = "linkedin"
   url = "https://www.linkedin.com/in/imbenhur/"
 
-  [[params.socialIcons]]
+[params.socialIcons]
   name = "medium"
   url = "https://imbenhur.medium.com/"
   
-  [[params.socialIcons]]
+[params.socialIcons]
   name = "github"
-  url = "https://github.com/benhursenabathi"
+  url = "https://github.com/benhursenabathi/"
