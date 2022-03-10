@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Benhur Senabathi'
 theme = 'PaperMod'
 
-  [params]
   [params.homeInfoParams]
   Title = "thoughts & blocks"
   Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy, design.
