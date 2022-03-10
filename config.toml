@@ -2,3 +2,8 @@ baseURL = 'https://benhur.me/'
 languageCode = 'en-us'
 title = 'Benhur Senabathi'
 theme = 'PaperMod'
+
+[params]
+    [[homeInfoParams]]
+        Title: 'Thoughts & blocks'
+        Content: 'Welcome to thoughts & blocks where you can read about automations, workflows, astronomy and anything really'
