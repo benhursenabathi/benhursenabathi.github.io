@@ -4,21 +4,21 @@ title = 'Benhur Senabathi'
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "Thoughts & blocks"
-Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy and anything really"
+Title = "thoughts & blocks"
+Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy, design.
 
-  [[params.homeInfoParams.socialIcons]]
+  [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/im_benhur"
 
-  [[params.homeInfoParams.socialIcons]]
+  [[params.socialIcons]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/imbenhur/"
 
-  [[params.homeInfoParams.socialIcons]]
+  [[params.socialIcons]]
   name = "medium"
   url = "https://imbenhur.medium.com/"
   
-  [[params.homeInfoParams.socialIcons]]
+  [[params.socialIcons]]
   name = "github"
   url = "https://github.com/benhursenabathi"
