@@ -4,7 +4,7 @@ date: 2022-03-10T17:23:34Z
 draft: false
 ---
 #### Alternatives to Whatsapp that provide a good experience. Why?
-![Signal app icon in a blue background](https://benhur.me/img/WhatsApp-privacy /Signal.jpeg)
+![Signal logo](https://benhur.me/img/WhatsApp/Signal-icon.jpeg)
 
 Surprisingly, this time, people from all over the world have been seeking for alternative platforms to WhatsApp that has dominated the cross-platform messenger market for 11-years. Let us discuss what are the reasons to switch and why Signal is the best platform to switch to in terms of Privacy, User Control, User Experience and feature sets for the major target audience.
 
@@ -21,7 +21,7 @@ Throughout the years, after the acquisition of Whatsapp, it is of no doubt that 
 
 We don’t need your texts. The below data is what we need. Give them to us or don’t use our platform.
 
-![Terms and conditions comparison](https://benhur.me/img/WhatsApp-privacy/Terms and conditions .jpeg)
+![Terms](https://benhur.me/img/WhatsApp/Terms.jpeg)
 
 ### Signal for Privacy
 When Brian Acton left Whatsapp, you guessed it right. He proceeded to start a non-profit group which was revealed as the Signal Foundation that develops the Signal app that I’m asking you to try out.
