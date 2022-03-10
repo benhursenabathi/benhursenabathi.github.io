@@ -1,21 +1,33 @@
 baseURL = 'https://benhur.me/'
 languageCode = 'en-us'
-title = 'Benhur Senabathi'
+title = 'Benhur'
 theme = 'PaperMod'
 
-  [params.homeInfoParams]
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[params]
+ShowReadingTime = true
+
+[params.homeInfoParams]
   Title = "thoughts & blocks"
-  Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy, design.
+  Content = "Welcome to thoughts & blocks where you can read about automations, workflows, astronomy and design."
+  
 
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/benhursenabathi/"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/benhursenabathi/"
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/im_benhur"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/im_benhur"
+[[params.socialIcons]]
+name = "medium"
+url = "https://imbenhur.medium.com/"
 
-  [[params.socialIcons]]
-  name = "medium"
-  url = "https://imbenhur.medium.com/"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/imbenhur/"
