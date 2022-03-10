@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp showed you what they stand for. What can you do?"
-date: 2022-03-10T17:23:34Z
+date: 2021-01-09T17:23:34Z
 draft: false
 ---
 #### Alternatives to Whatsapp that provide a good experience. Why?
