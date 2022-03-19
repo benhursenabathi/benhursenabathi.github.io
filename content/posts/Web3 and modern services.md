@@ -11,7 +11,7 @@ We might have seen different posts talk about how this could change our society.
 The three areas I’ll cover are:
 1. Single Sign on
 2. Cross-border transactions
-3. Interoperability 
+3. Access and control
 
 ## Single-Sign On (SSO)
 Single-Sign on has taken the world by a storm. Can you remember the days where you had the same password and email for all the websites you used (which were a handful back in the days) until single-sign on came along with google and social media platforms.
@@ -59,16 +59,20 @@ Let’s look at it from an experience perspective.
 ### How can web3 tackle this? 
 Web3 apps again, will have one entry point that the user needs to think about and focus on. The wallet address. As time goes by, the wallet address can be tied to a person’s unique personal naming system like *anonymous.wallet*
 
+![](https://benhur.me/img/Web3-product/Send-money.png)
+
 People just need to know this simple wallet address and the transaction distance does not matter since it is all done on chain. No more fiddling around with account number, sort code and other codes. In theory this sounds great, but how these interfaces are designed to take the user cautiously will be a huge factor in providing good experience. The risks are higher in web3 because the transactions are immutable. They cannot be reversed once it is on the ledger chain. How can we as product designers ensure that users are safe and doing transaction without slips or mistakes?
 
 ## Access and control
-Today, as users, we are not in control of our own data. The content we create, the pictures we upload are all controlled by companies that own these remote servers. They can lock you out of your account when they want and most of the times, its not anyones fault but due to poorly designed edge cases, these products give no way to access one’s data again.
+Today, as users, we are not in control of our own data. The content we create, the pictures we upload are all controlled by companies that own these remote servers. They can lock you out of your account when they want and generally, its not anyones fault but due to poorly designed edge cases.
 
-Let’s take a popular example. Did you know that if you lose access to your email for whatsoever reason, you cannot access your documents on notion. You are completely locked out and no support team can help you.
-
-Various products restrict personal data access outside a particular geographic location. Health-care providers have different rules regarding the use of patient data outside their home countries. Even if its being requested by the owner themselves. Is there a way that web 2 products could be designed to better accommodate these edge cases or is it better for us to transition to web 3 and give people complete ownership of their data?
+Various products restrict personal data access outside a particular geographic location. Health-care providers have different rules regarding the use of patient data outside their home countries. Even if its being requested by the owner themselves. Is there a way that web 2 products could be designed to better accommodate these edge cases or is it better for us to transition to web3 and give people complete ownership of their data?
 
 ### How can web 3 tackle this?
 In this case, the only person who is capable of locking themselves out of their wallet / data is themselves if they forget their private key / seed phrase. 
 
-As designers, we could soon be ideating different solutions for different industries like banking, gaming and consumer tech to centralise certain parts of a product and giving rest of the power in the form of decentralised on-chain data to users directly thereby having the best of both worlds. How these solutions are implemented by design teams play a crucial part in the adoption of these platforms. We are at a stage where the products that sell, are products that are designed with meaning and delight. 
+As designers, we could soon be ideating different solutions for different industries like banking, gaming and consumer tech to centralise certain parts of a product and giving rest of the power in the form of decentralised on-chain data to users directly thereby having the best of both worlds. It would be interesting to see new use cases come up for existing products as more and more data becomes decentralised in our lives. Imagine your supermarket shopping data and your personal health data can be automatically processed without a third party provider to give you relevant recommendations.
+
+![](https://benhur.me/img/Web3-product/Centralisation.png)
+
+ How these solutions are implemented by design teams play a crucial part in the adoption of these platforms. We are at a stage where the products that sell, are products that are designed with meaning, delight and security in mind.
