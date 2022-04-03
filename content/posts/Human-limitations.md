@@ -18,7 +18,7 @@ For most of human history, different cultures have used different methods and ma
 ## Evolution of defining reality
 As we evolved through the years, painting, art, architecture evolved with us. Suddenly we were able to create exquisite sculptures with different stones in three-dimensions, we constructed monuments that redefined the nature of reality of outer worlds. They started to tell a story, a very convincing one and many of these has withstood the sands of time. 
 
-![Etruscan sculpture](https://benhur.me/img/Human-biology/Etruscan.heic)
+![Etruscan sculpture](https://benhur.me/img/Human-biology/Etruscan.png)
 
 We started to get better at defining the world in a more “realistic sense”. 1000 years ago, the phenomenon of a camera obscura (dark room) to capture light was understood by Alhazen, an Arab scientist. Fast forward to 17th century, this same principle was used to create portable cameras that served to capture images and help in drawing. We started to better “trap reality” and become more refined. We were not limited to nature and physics of the universe to give us permission as to what we created because we could trap time itself and recreate reality. 
 
@@ -31,7 +31,7 @@ Fast forward to today, audio and video are effortless. The computer on your pock
 Then gaming arrived. Immersive worlds were you were not bound by physical rules was a new way where designers and developers 
 crafted worlds that were once thought to be impossible. You could do anything in these worlds, and we have seen over the last 20 years, the improvement in graphical capabilities has paved way for life-like textures and environment design. 
 
-![](https://benhur.me/img/Human-biology/Forza.png)
+![](https://benhur.me/img/Human-biology/Forza.jpg)
 
 ![](https://benhur.me/img/Human-biology/Division.png)
 
