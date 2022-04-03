@@ -7,7 +7,7 @@ draft: false
 ## Recreating figments of reality has been in our DNA
 ![Cave paintings in Spain ](https://benhur.me/img/Human-biology/Cave-painting.jpeg)
 
-The oldest cave paintings that have been discovered so far, dates back to almost 45,000 years ago. We, homosapiens have always been intrigued about the world around us and tried to recreate it in different forms throughout history. Instead of being a functional, these paintings tell us that people loved to imitate or even redefine reality.
+The oldest cave paintings that have been discovered so far, dates back to almost 45,000 years ago. We, homosapiens have always been intrigued about the world around us and tried to recreate it in different forms throughout history. Instead of being functional, these paintings tell us that people loved to imitate or even redefine reality.
 
 The earliest forms of writing were found around 5000 years ago in the form of Quipu. Quipu was a method used by Incan civilisation using knotted strings to collect data, noting down information and monitoring taxes. We found different ways to communicate reality through language and writing techniques. 
 
@@ -20,7 +20,7 @@ As we evolved through the years, painting, art, architecture evolved with us. Su
 
 ![Etruscan sculpture](https://benhur.me/img/Human-biology/Etruscan.png)
 
-We started to get better at defining the world in a more “realistic sense”. 1000 years ago, the phenomenon of a camera obscura (dark room) to capture light was understood by Alhazen, an Arab scientist. Fast forward to 17th century, this same principle was used to create portable cameras that served to capture images and help in drawing. We started to better “trap reality” and become more refined. We were not limited to nature and physics of the universe to give us permission as to what we created because we could trap time itself and recreate reality. 
+We started to get better at defining the world in a more “realistic sense”. 1000 years ago, the phenomenon of a camera obscura (dark room) to capture light was understood by Alhazen, an Arab scientist. Fast forward to 17th century, this same principle was used to create portable cameras that served to capture images and help in drawing. We started to better “trap reality” and become more refined. We were not limited to nature and physics of the universe to give us permission as to what we created because we could trap moments in time itself and recreate reality. 
 
 ![Evolution of a camera](https://benhur.me/img/Human-biology/Camera.png)
 
@@ -28,18 +28,18 @@ Fast forward to today, audio and video are effortless. The computer on your pock
 
 ![](https://benhur.me/img/Human-biology/Valhalla.png)
 
-Then gaming arrived. Immersive worlds were you were not bound by physical rules was a new way where designers and developers 
-crafted worlds that were once thought to be impossible. You could do anything in these worlds, and we have seen over the last 20 years, the improvement in graphical capabilities has paved way for life-like textures and environment design. 
+Then gaming arrived. Immersive worlds where you are not bound by physical rules was a new way where designers and developers 
+crafted worlds that were once thought to be impossible. You could do anything in these worlds, and we have seen over the last 20 years, the improvement in graphical capabilities has paved way for life-like 3D textures and environment design. 
 
 ![](https://benhur.me/img/Human-biology/Forza.jpg)
 
 ![](https://benhur.me/img/Human-biology/Division.png)
 
-#### For the first time in history, we are not only recreating and capturing real-worlds but actively creating parallel universes that feels even more immersive. 
+#### For the first time in history, we are not only recreating and capturing real-worlds but actively creating parallel universes that feel even more immersive. 
 
 > there is an estimate of around 3 Billion gamers world wide.
 
-It shows how much, we as humans want to experience and be immersed in these virtual worlds because they are capable of offering much more than traditional paintings, writing and taking pictures. Because, you were always limited by the laws of physics before. 
+It shows how much, we as humans want to experience and be immersed in these virtual worlds because they are capable of offering much more than traditional paintings, writing and taking pictures. Because, you were always limited by the laws of physics before. Modern games are the peak immersive experiences we have conjured so far.
 
 ## Evolution, you say? What is the DMN?
 Though we have gotten better at capturing, redefining and crafting experiences and moments from reality, we are losing a few things that is key to human wellbeing. 
@@ -65,7 +65,7 @@ This might sound insane and implausible but social media took over the definitio
 ## It wont. 
 In my opinion, it won’t be possible for us to be immersed and stay within these virtual worlds for all our tasks. From collaborating on projects to building a skyscraper in a virtual world, the human body does not have the necessary resources yet to fully accommodate this massive shift in how we experience the world. The smartphone era has already shifted our habits and mental models, and we are at the brink of what we can do from a biological standpoint. 
 
-Think of your days when you are stuck in meetings. You would’ve felt exhausted looking at your computer screen 30 cm away (hopefully) and you just want to sleep or go for a run at five. Today, we encourage schools to take the same approach with virtual classes without thinking about the long term biological effects on children. At a certain point, the human brain just tells, no thank you! I’m tired and need some fresh air. Until now, the advantages of mobile phones have always been portability and disposability. The new generation devices challenges this and requires to be with us during work, play and even sleep. We are finally at a stage where we are willing to negatively affect our biological functions to get more work done, be more productive and collaborate and create more projects.
+Think of your days when you are stuck in meetings. You would’ve felt exhausted looking at your computer screen 30 cm away (hopefully) and you just want to sleep or go for a run at five. Today, we encourage schools to take the same approach with virtual classes without thinking about the long term biological effects on children. At a certain point, the human brain just tells, no thank you! I’m tired and need some fresh air. Until now, the advantages of mobile phones have always been portability and disposability. The new generation devices challenges this and requires to be with us during work, play and even sleep. We are finally at a stage where we are willing to negatively affect our biological functions to get more work done and to experience more, be more productive and collaborate and create more projects.
 
 ![](https://benhur.me/img/Human-biology/Sleeping.jpeg) 
 
