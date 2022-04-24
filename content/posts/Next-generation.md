@@ -31,7 +31,7 @@ That would mean, users with current mental models will find it harder to keep up
 
 Ask yourself, almost every child that we see today is more intelligent than we were at their age. It’s obvious they had an earlier start to consume information and media in high fidelity. They use voice as a primary means to interact with digital products whereas we use touch and type more. The way they think, interact and expect how things work is drastically different. They started interacting with flat design interfaces while we needed skeuomorphic design to help us transition between worlds.   
 
-![Skeuomorphism vs flat design and how we are already designing for new mental models](https://benhur.me/img/Mentalmodels/Designchange .png)
+![Skeuomorphism vs flat design and how we are already designing for new mental models](https://benhur.me/img/Mentalmodels/Designchange.png)
 
 > The finish line is different for children not because they started late, but because it is a different race.
 
