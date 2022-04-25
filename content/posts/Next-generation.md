@@ -17,7 +17,7 @@ Our generation, we like to think that we would continue to be experts as designe
 
 > It can be explained as people prefer things that are easy to think about rather than things that are difficult to think about. This feeling of ease or difficulty is known as cognitive fluency. The ease with which our brains process information. The easier information is to process, the more we are inclined to like it, find it attractive, and believe it to be true.
 
-Information becomes easier when we develop progressive mental models. This makes it hard for us designers, who are well trained with these digital interaction models, to forget the people who might not be well trained (old people and people with disabilities) and not push the boundaries for further innovation for younger audience who are malleable to new forms of models. 
+Information becomes easier when we develop progressive mental models. This makes it easy for us designers, who are well trained with these digital interaction models, to forget the people who might not be well trained (old people and people with disabilities) and not push the boundaries for further innovation for younger audience who are malleable to new forms of models. 
 
 ![Graph representing cognitive fluency](https://benhur.me/img/Mentalmodels/Graph.png)
 
