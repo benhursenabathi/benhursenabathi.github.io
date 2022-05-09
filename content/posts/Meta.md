@@ -1,5 +1,5 @@
 ---
-title: "What could meta bring to the metaverse table?"
+title: "What Could Meta Bring to the Metaverse Table?"
 date: 2022-04-30T15:31:56+01:00
 draft: false
 ---
