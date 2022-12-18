@@ -1,5 +1,5 @@
 ---
-title: "What do the JWST images of outer space mean for humanity?"
+title: "What does the JWST images of outer space mean for humanity?"
 date: 2022-08-21T15:13:15+01:00
 draft: false
 ---
