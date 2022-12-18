@@ -8,7 +8,7 @@ draft: false
 
 It’s fascinating to look back and understand how far our species has come in the last 200 years. 
 
-Although sci-fi and the stories we tell ourselves has always been focussed on external aspects of humanity, like space travel, talking to aliens and robots taking over the planet or fighting zombies to save earth, scientifically, it took us many years to understand ourselves better (and we don’t in many areas). The human condition, as humans, we are new to the idea of learning and understanding ourselves better. Over the last few years, this has been changing. We have revolutionised our understanding of our biological systems, building blocks and  decoding the neural networks in our brain. Today, we can see [build entire neural networks and produce neural activity from skin cells.](https://www.youtube.com/watch?v=ABmRCdnVq3E) 
+Although sci-fi and the stories we tell ourselves has always been focussed on external aspects of humanity, like space travel, talking to aliens and robots taking over the planet or fighting zombies to save earth, scientifically, it took us many years to understand ourselves better (and we don’t in many areas). The human condition, as humans, we are new to the idea of learning and understanding ourselves better. Over the last few years, this has been changing. We have revolutionised our understanding of our biological systems, building blocks and  decoding the neural networks in our brain. Today, we can [build entire neural networks and produce neural activity from skin cells.](https://www.youtube.com/watch?v=ABmRCdnVq3E) 
 
 ![Brain in 3D](https://benhur.me/img/Neuroscience-BCI/brainneuron.jpg.jpeg)
 
@@ -17,7 +17,7 @@ This curiosity to understand ourselves better and break-down our biological make
 ## The role of Science Fiction
 ![A white and orange spherical robot peeking out](https://benhur.me/img/Neuroscience-BCI/robotcute.jpeg)
 
-Cyborgs and integrating artificial intelligent systems into our biological human bodies are nothing new. We have been exploring these ideas for thousands of years. We started to use technology externally from our bodies, attach and detach them when needed to help make our lives better, faster and easier. 
+Cyborgs and integrating artificial intelligent systems into our biological human bodies are nothing new. We have been exploring these ideas for thousands of years. From weapons to hunt to the phones we use, they’re all an extension of ourselves to help us achieve our goals and to propel us further. We started to use technology externally from our bodies, attach and detach them when needed to help make our lives better, faster and easier. 
 
 Recently, with new research in integrated technologies - sci-fi books, games and movies are starting to focus on integrating oneself with a technology layer for various purposes. Exploring new worlds, escaping the prison of our genetics and becoming superhuman are all included in these utopian worlds. Like every important discovery in the history of mankind, science fiction will be the key factor in exploring the next phase of our biological evolution. 
 
@@ -61,12 +61,14 @@ When designing for technologies such as brain-computer interfaces and chip impla
 
 Designing for these technologies will require designers to think creatively and consider new ways of interacting with devices and systems. How could we prototype ideas and test them? Would these new interfaces be unique to each individual? What would the business and technical constraints look like? 
 
-#### In the futuristic space game, high-on-life, the player looks at ads from corporations when they wear a space combat suit that is on trial-mode. 
-
 It may require designers to work closely with experts in fields such as neuroscience and ethics to ensure that we are designing products and experiences that are safe, ethical, and beneficial to the user. The goal of human-centered design is to create technology that enhances people's lives and helps them achieve their goals, and this is no less true when designing for technologies such as brain-computer interfaces and chip implants.
 
-Another major concern is the issue of privacy and security. Chip implants and BCIs have the potential to collect and transmit large amounts of personal data, which could be accessed by hackers or used for malicious purposes. Designers and other specialists must ensure that the interfaces they design are secure and protect users' privacy. They should consider how to give users control over their data and the ability to opt out of certain features if they wish. Imagine the usage of dark UX patterns on a brain-computer interface to make additional revenue.
+Another major concern is the issue of privacy and security. Chip implants and BCIs have the potential to collect and transmit large amounts of personal data, which could be accessed by hackers or used for malicious purposes. Designers and other specialists must ensure that the interfaces they design are secure and protect users' privacy. They should consider how to give users control over their data and the ability to opt out of certain features if they wish. 
+
+*Imagine the usage of dark UX patterns on a brain-computer interface to make additional revenue*.
 
 Another ethical concern is the potential for these technologies to be used to exploit or manipulate users. For example, BCIs could be used to manipulate people's thoughts and emotions, or chip implants could be used to monitor and control people's behavior. Designers must ensure that the interfaces they design do not enable or facilitate these kinds of abuses, and that they give users the ability to control how the technology is used.
 
 There are also concerns around accessibility and inclusion. Some people may not be able to use BCIs or chip implants due to physical or cognitive limitations, or due to financial or social barriers. Designers must consider these issues and strive to create interfaces that are accessible and inclusive for all users.
+
+We are on the verge of a new era of technology - design - societal changes around the world and it’s up to us, product, experience and service designers to make sure it’s human-centric.
