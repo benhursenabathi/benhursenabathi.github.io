@@ -1,7 +1,7 @@
 ---
 title: "Sci-fi design, brain computer interfaces and the future "
 date: 2022-12-02T09:42:38Z
-draft: True
+draft: false
 ---
 
 50 years ago we were debating the harmful effects of tobacco, pesticides and climate change. Today, we are on the verge of breakthroughs across different industries and projects ranging from hydrogen fuel cells, carbon nano-tubes to building space elevators and revolutionising sci-fi ideas around the world. 
@@ -70,5 +70,3 @@ Another major concern is the issue of privacy and security. Chip implants and BC
 Another ethical concern is the potential for these technologies to be used to exploit or manipulate users. For example, BCIs could be used to manipulate people's thoughts and emotions, or chip implants could be used to monitor and control people's behavior. Designers must ensure that the interfaces they design do not enable or facilitate these kinds of abuses, and that they give users the ability to control how the technology is used.
 
 There are also concerns around accessibility and inclusion. Some people may not be able to use BCIs or chip implants due to physical or cognitive limitations, or due to financial or social barriers. Designers must consider these issues and strive to create interfaces that are accessible and inclusive for all users.
-
-
